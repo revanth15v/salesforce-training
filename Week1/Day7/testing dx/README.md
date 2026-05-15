@@ -212,5 +212,5 @@ Tools like GitHub, Salesforce DX, and CLI help developers manage enterprise appl
 
 ---
 
-Trailblazer Profile : 
+# Trailblazer Profile : 
 
