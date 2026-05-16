@@ -214,3 +214,4 @@ Tools like GitHub, Salesforce DX, and CLI help developers manage enterprise appl
 
 # Trailblazer Profile : 
 
+<img width="1902" height="790" alt="image" src="https://github.com/user-attachments/assets/d9c76963-3e00-4423-a1c6-907bf623c21d" />
